@@ -1,2 +1,2 @@
-# andrejkosyak.github.io
+# andrekosak.github.io
 Test Flight Website
